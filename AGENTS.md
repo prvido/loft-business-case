@@ -1,6 +1,6 @@
-Este projeto tem como objetivo resolver um Business Case.
+Este projeto tem como objetivo resolver um Business Case para o processo seletivo da vaga Business Analyst Sênior na empresa Loft.
 
-## Descrição do caso
+## Business Case - Processo Seletivo Loft
 
 Uma apresentação de 20 minutos sobre o lançamento de um cartão de crédito vinculado ao patrimônio imobiliário (home equity) semelhante ao modelo utilizado pela Aven nos Estados Unidos, para distribuição por meio da rede da Loft, composta por mais de 10 mil corretoras parceiras.
 
@@ -22,7 +22,6 @@ Diretrizes
 * Declare de forma clara quaisquer premissas assumidas para a sua análise.
 * Em última instância, você deve buscar comprovar ou refutar a tese de que devemos investir neste produto.
 
-## Recursos
+## Soluções do case
 
-* Loft.md -> arquivo com informações úteis sobre a empresa Loft.
-* Cartão de Crédito com Garantia de Imóvel.md -> arquivo com informações sobre cartão de crédito com garantia de imóvel, contendo modelos de crédito, players internacionais e comparação com o Brasil.
+1. Oportunidade de mercado: `1. Oportunidade de Mercado.md`
